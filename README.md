@@ -62,9 +62,13 @@ git switch -c add-<your-name>
 
 Start from the latest `dev`, then make your own branch named after your change, like `add-malik`.
 
-### 3. Copy the template and rename it
+   ### 3. Copy the template and rename it
 
-Example: `cp members/TEMPLATE.md members/evanv.md`
+```bash
+   cp members/TEMPLATE.md members/<your-name>.md
+```
+
+   Example: `cp members/TEMPLATE.md members/evanv.md`
 
 This works in Mac/Linux terminals, Git Bash and PowerShell. (In Windows Command Prompt, use `copy members\TEMPLATE.md members\<your-name>.md`.)
 
