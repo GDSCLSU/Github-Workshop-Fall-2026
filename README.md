@@ -27,6 +27,9 @@ gh auth status    # should say you're logged in to github.com
 
 ## Steps
 
+> **Your name format:** everywhere you see `<your-name>`, use your **first name + last initial**, all lowercase, no spaces.
+> Example: Evan Voisel → `evanv`, so your branch is `add-evanv` and your file is `members/evanv.md`.
+
 ### 1. Fork and clone
 
 ```bash
