@@ -1,16 +1,20 @@
-# Welcome to the GDG at LSU Github Workshop!
+# GDG at LSU GitHub Workshop
 
-This is where you'll make your very first **pull request**. Follow the steps below to add yourself to the group.
+Welcome! This is where you'll make your very first **pull request**. Copy the template below into a new file, fill in your info, and open a pull request to add yourself to this workshop's history. Then you'll be ready to submit your own project at Geaux Hack.
 
-By the end, your name will be apart of this workshop's history, and you will be ready to submit your very own repository at Geaux Hack.
+## Template
 
-## Steps to add
+1. Copy `members/TEMPLATE.md`
+2. Rename the copy to `members/your-github-username.md`
+3. Fill in your info, then commit, push, and open a pull request
 
-1. Fork this repository
-2. Clone your fork to your computer
-3. Create your own file
-4. Copy the template into your own file
-5. Commit your change
-6. Push your fork
-7. Open a pull request
-8. Celebrate
+```markdown
+# Your Name
+
+- **GitHub:** [@your-github-username](https://github.com/your-github-username)
+- **Major:** Your major
+- **Year:** Freshman / Sophomore / Junior / Senior / Grad
+- **Fun fact:** Something about you
+
+> One thing I want to build at Geaux Hack: ...
+```
