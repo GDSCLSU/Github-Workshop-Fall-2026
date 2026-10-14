@@ -7,7 +7,6 @@ By the end, your name will be apart of this workshop's history, and you will be 
 ## Steps to add
 
 1. Fork this repository
-  - Click the **Fork** button in the top-right corner of this page. This will create your own copy of this repository under your Github Account.
 2. Clone your fork to your computer
 3. Create your own file
 4. Copy the template into your own file
