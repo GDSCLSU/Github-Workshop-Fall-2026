@@ -64,9 +64,7 @@ Start from the latest `dev`, then make your own branch named after your change, 
 
 ### 3. Copy the template and rename it
 
-```bash
-cp members/TEMPLATE.md members/<your-name>.md
-```
+Example: `cp members/TEMPLATE.md members/evanv.md`
 
 This works in Mac/Linux terminals, Git Bash and PowerShell. (In Windows Command Prompt, use `copy members\TEMPLATE.md members\<your-name>.md`.)
 
