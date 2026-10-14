@@ -1,4 +1,4 @@
-# Your Name
+# Evan Voisel
 
 - **GitHub:** [@LordOfTheCorgis](https://github.com/LordOfTheCorgis)
 - **Major:** Computer Science & Artificial Intelligence
