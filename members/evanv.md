@@ -5,4 +5,4 @@
 - **Year:** Sophomore
 - **Fun fact:** I run a game-hosting company
 
-> One thing I want to build at Geaux Hack: I am an organizer...
+> One thing I want to build at Geaux Hack: A tower of pizza boxes
