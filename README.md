@@ -60,7 +60,7 @@ git pull upstream dev
 git switch -c add-<your-name>
 ```
 
-Start from the latest `dev`, then make your own branch named after your change, like `add-malik`.
+Start from the latest `dev`, then make your own branch named after your change, like `add-evanv`.
 
    ### 3. Copy the template and rename it
 
